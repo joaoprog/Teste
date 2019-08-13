@@ -1,4 +1,13 @@
 /**/
 body {
-  background-color: #FF69B4;
+  background-color: rgb(240, 156, 198);
+}
+
+h4, h2 {
+  text-align: center;
+  color: white;
+}
+
+.oi {
+  text-align: 
 }
